@@ -26,3 +26,7 @@
 - R
 - MySQL
 - AWS
+
+
+# スキル・資格
+- TOEIC LR 800
